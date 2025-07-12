@@ -44,17 +44,7 @@ Implement unit testing for logic functions (e.g., filter, search, sort)
 
 Integrate with Freemarker templates and possibly backend APIs
 
-🙌 Author
-Made with 💻 and ☕ by Charan
 
-📜 License
-This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
-
----
 
 
 
